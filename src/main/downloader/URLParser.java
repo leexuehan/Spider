@@ -1,4 +1,4 @@
-package pages;
+package downloader;
 import org.apache.log4j.Logger;
 
 import java.io.BufferedReader;
@@ -8,11 +8,11 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class URLOperation {
-    private static final Logger logger = Logger.getLogger(URLOperation.class.getName());
+public class URLParser {
+    private static final Logger logger = Logger.getLogger(URLParser.class.getName());
 
 
-    public String parseURL(String inputUrl) {
+    public String parse(String inputUrl) {
         String retFile = null;
         URLConnection urlConnection;
         URL url = null;

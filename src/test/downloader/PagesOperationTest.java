@@ -1,4 +1,4 @@
-package pages;
+package downloader;
 
 import org.apache.log4j.Logger;
 import org.jsoup.Jsoup;
@@ -23,13 +23,18 @@ public class PagesOperationTest {
     @Test
     public void should_return_correct_title_when_url_given() {
         String testUrl = "http://www.baidu.com";
-        String parsedFile = new URLOperation().parseURL(testUrl);
+        String parsedFile = new URLParser().parse(testUrl);
         Document doc = Jsoup.parse(parsedFile);
 
         String actual = doc.title();
         String expected = "百度一下，你就知道";
 
         assertThat(actual).isEqualTo(expected);
+    }
+
+    @Test
+    public void should_store_pages_well_when_download_pages(){
+
     }
 
 
