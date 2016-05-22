@@ -1,9 +1,13 @@
 package pages;
 
 import org.apache.log4j.Logger;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class PagesOperationTest {
     Logger logger = Logger.getLogger(this.getClass().getName());
@@ -17,17 +21,15 @@ public class PagesOperationTest {
     }
 
     @Test
-    public void should_return_200_ok_when_url_given() {
+    public void should_return_correct_title_when_url_given() {
         String testUrl = "http://www.baidu.com";
-        String localFilePath = "/Users/lixuehan/Spider/Spider/src/test/TestResources/DemoPage.html";
-        String expectedFile;
-        String actualFile;
+        String parsedFile = new URLOperation().parseURL(testUrl);
+        Document doc = Jsoup.parse(parsedFile);
 
-        //expectedFile = getLocalFile(localFilePath);
-        actualFile = new URLOperation().parseURL(testUrl);
-        logger.info(actualFile);
+        String actual = doc.title();
+        String expected = "百度一下，你就知道";
 
-        //assertThat(actualFile).isEqualTo(expectedFile);
+        assertThat(actual).isEqualTo(expected);
     }
 
 

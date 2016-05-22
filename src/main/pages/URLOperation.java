@@ -38,17 +38,7 @@ public class URLOperation {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        logger.info("load successfully");
         return retFile;
     }
 
-    public static void main(String[] args) {
-        String testUrl = "http://www.baidu.com";
-        //DOMConfigurator.configure("log4j.properties");
-        logger.info("load successfully");
-
-        //System.out.println(new URLOperation().parseURL(testUrl));
-
-
-    }
 }
