@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class PagesOperationTest {
+public class PagesDownloadTest {
     Logger logger = Logger.getLogger(this.getClass().getName());
 
     @Before
@@ -23,7 +23,7 @@ public class PagesOperationTest {
     @Test
     public void should_return_correct_title_when_url_given() {
         String testUrl = "http://www.baidu.com";
-        String parsedFile = new URLParser().parse(testUrl);
+        String parsedFile = new URLDownloader().getPages(testUrl);
         Document doc = Jsoup.parse(parsedFile);
 
         String actual = doc.title();

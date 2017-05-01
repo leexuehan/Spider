@@ -1,0 +1,10 @@
+1.大容量告警上报
+${alarm_num} Set Variable 50000
+${time_out} Set Variable 900
+${server1} Set Variable 10.92.250.201:192.168.231
+${server2} Set Variable 10.92.250.202:192.168.240
+${server3} Set Variable 10.92.250.203:192.168.220
+${server_info_list} Create List ${server1} ${server2} ${server3}
+告警上报 ${server_info_list} | ${alarm_num} | ${time_out}
+2.大容量告警恢复
+恢复已经上报的告警 ${server_info_list}

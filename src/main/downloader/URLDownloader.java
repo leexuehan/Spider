@@ -8,12 +8,11 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class URLParser {
-    private static final Logger logger = Logger.getLogger(URLParser.class.getName());
+public class URLDownloader {
+    private static final Logger logger = Logger.getLogger(URLDownloader.class.getName());
 
-
-    public String parse(String inputUrl) {
-        String retFile = null;
+    public String getPages(String inputUrl) {
+        String pageContent = null;
         URLConnection urlConnection;
         URL url = null;
 
@@ -34,11 +33,11 @@ public class URLParser {
             while((tmp = br.readLine()) != null) {
                 file.append(tmp).append("\n");
             }
-            retFile = file.toString();
+            pageContent = file.toString();
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return retFile;
+        return pageContent;
     }
 
 }
