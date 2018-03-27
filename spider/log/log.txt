@@ -1,0 +1,924 @@
+2018-03-23 10:24:28,709 - __main__ - WARNING - 找不到该家企业信息,企业名:哈尔冰金凤防火复合板厂
+2018-03-23 10:36:30,565 - __main__ - ERROR - 搜索公司信息时出错,公司名:安徽海克尔服装服饰有限公司,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:36:35,630 - __main__ - ERROR - 搜索公司信息时出错,公司名:哈尔冰金凤防火复合板厂,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:36:40,648 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:36:45,660 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:36:50,672 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:37:38,937 - __main__ - ERROR - 搜索公司信息时出错,公司名:安徽海克尔服装服饰有限公司,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:04,060 - __main__ - WARNING - 找不到该家企业信息,企业名:哈尔冰金凤防火复合板厂
+2018-03-23 10:45:05,781 - __main__ - WARNING - 找不到该家企业信息,企业名:
+2018-03-23 10:45:05,790 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:10,805 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:15,820 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:20,832 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:25,845 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:30,860 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:35,875 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:40,888 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:45,903 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:50,915 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:45:55,929 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:00,942 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:05,952 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:10,968 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:15,981 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:20,991 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:26,005 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:31,018 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:36,031 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:41,046 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:46,058 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:46:51,073 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:47:47,379 - __main__ - WARNING - 找不到该家企业信息,企业名:哈尔冰金凤防火复合板厂
+2018-03-23 10:47:49,893 - __main__ - WARNING - 找不到该家企业信息,企业名:
+2018-03-23 10:47:49,902 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:47:54,915 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:47:59,930 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:04,943 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:09,957 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:14,972 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:19,987 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:25,001 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:30,014 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:35,031 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:40,047 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:45,063 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:50,076 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:48:55,091 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:49:00,105 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:49:05,120 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:49:10,131 - __main__ - ERROR - 搜索公司信息时出错,公司名:,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 136, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:58:05,992 - __main__ - ERROR - 搜索公司信息时出错,公司名:安徽海克尔服装服饰有限公司,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 139, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:58:11,006 - __main__ - ERROR - 搜索公司信息时出错,公司名:哈尔冰金凤防火复合板厂,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 139, in search_company_info
+    top_search_box_input = driver.find_element_by_id('headerKey')
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 285, in find_element_by_id
+    return self.find_element(by=By.ID, value=id_)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"id","selector":"headerKey"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 10:59:15,492 - __main__ - WARNING - 找不到该家企业信息,企业名:哈尔冰金凤防火复合板厂
+2018-03-23 11:01:22,753 - __main__ - WARNING - 找不到该家企业信息,企业名:哈尔冰金凤防火复合板厂
+2018-03-23 11:01:24,343 - __main__ - WARNING - 找不到该家企业信息,企业名:双城燃气开放有限公司
+2018-03-23 11:04:28,293 - __main__ - WARNING - 找不到该家企业信息,企业名:辽宁本溪盘锦华山有限公司衡阳市分公司
+2018-03-23 11:04:48,426 - __main__ - WARNING - 找不到该家企业信息,企业名:陕西省岐山县周义生态农业有限公司衡阳分公司
+2018-03-23 11:05:18,081 - __main__ - WARNING - 找不到该家企业信息,企业名:徐州锦龙纺织有限公司
+2018-03-23 11:09:23,088 - __main__ - WARNING - 找不到该家企业信息,企业名:鄂尔多斯市俏姿国际美容美发责任公司
+2018-03-23 11:09:26,956 - __main__ - ERROR - 搜索公司信息时出错,公司名:呼和浩特市天伦水产品经销部,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 156, in search_company_info
+    self.fill_in_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 170, in fill_in_info
+    self.add_business_risk_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 125, in add_business_risk_info
+    '/html/body/div[3]/div/div[1]/header/div/div[4]/a/span').text
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 309, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div[1]/header/div/div[4]/a/span"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 11:09:55,057 - __main__ - ERROR - 搜索公司信息时出错,公司名:青山区钱氏圣源食品经销部,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 156, in search_company_info
+    self.fill_in_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 170, in fill_in_info
+    self.add_business_risk_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 125, in add_business_risk_info
+    '/html/body/div[3]/div/div[1]/header/div/div[4]/a/span').text
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 309, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div[1]/header/div/div[4]/a/span"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 11:10:29,956 - __main__ - WARNING - 找不到该家企业信息,企业名:内蒙古包头市超人养殖场
+2018-03-23 11:12:50,386 - __main__ - ERROR - 搜索公司信息时出错,公司名:山东鲁冠戏剧影视制作中心,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 156, in search_company_info
+    self.fill_in_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 168, in fill_in_info
+    self.add_address_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 98, in add_address_info
+    address = driver.find_element_by_xpath('//*[@id="Cominfo"]/table[2]/tbody/tr[10]/td[2]').text
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 309, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Cominfo"]/table[2]/tbody/tr[10]/td[2]"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 11:13:34,733 - __main__ - WARNING - 找不到该家企业信息,企业名:延安明恒升能源科技有限公司
+2018-03-23 11:16:07,656 - __main__ - WARNING - 找不到该家企业信息,企业名:天津亿鸿股权投资基金有限公司
+2018-03-23 11:20:19,023 - __main__ - WARNING - 找不到该家企业信息,企业名:中山市洪铭水利发电科技有限公司重庆分公司
+2018-03-23 11:23:26,595 - __main__ - WARNING - 找不到该家企业信息,企业名:惠州市利物浦信用担保投资有限公司
+2018-03-23 11:29:59,108 - __main__ - WARNING - 找不到该家企业信息,企业名:天津天凯新盛股权投资基金有限公司
+2018-03-23 11:31:16,821 - __main__ - WARNING - 找不到该家企业信息,企业名:天津鹏英志生股份投资基金管理有限公司
+2018-03-23 11:35:17,524 - __main__ - ERROR - 搜索公司信息时出错,公司名:北京华夏鼎兴新三板基金管理中心（有限合伙）,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 156, in search_company_info
+    self.fill_in_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 169, in fill_in_info
+    self.add_legal_person_name(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 108, in add_legal_person_name
+    '//*[@id="Cominfo"]/table[1]/tbody/tr[2]/td[1]/div/div[1]/div[2]/a[1]').text
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 309, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Cominfo"]/table[1]/tbody/tr[2]/td[1]/div/div[1]/div[2]/a[1]"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 11:44:10,920 - __main__ - ERROR - 搜索公司信息时出错,公司名:浙江智创合业投资管理有限公司,错误信息:
+Traceback (most recent call last):
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 156, in search_company_info
+    self.fill_in_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 168, in fill_in_info
+    self.add_address_info(driver)
+  File "/Users/lixuehan/PycharmProjects/MySpider/spider/qcchelper.py", line 98, in add_address_info
+    address = driver.find_element_by_xpath('//*[@id="Cominfo"]/table[2]/tbody/tr[10]/td[2]').text
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 309, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 787, in find_element
+    'value': value})['value']
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in execute
+    self.error_handler.check_response(response)
+  File "/Library/Python/2.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Cominfo"]/table[2]/tbody/tr[10]/td[2]"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540469 (1881fd7f8641508feb5166b7cae561d87723cfa8),platform=Mac OS X 10.11.2 x86_64)
+
+
+2018-03-23 11:52:20,418 - __main__ - WARNING - 找不到该家企业信息,企业名:陕西宏昌鑫煤华实业有限责任公司
